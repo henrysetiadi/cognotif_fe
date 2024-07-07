@@ -93,7 +93,6 @@ onMounted(() => {
               </div>
               <div class="mb-3">
                 <div>Status:</div>
-
                 <input
                   type="radio"
                   name="status"
